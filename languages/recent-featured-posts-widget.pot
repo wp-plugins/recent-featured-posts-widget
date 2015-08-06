@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Recent & Featured Posts Widget\n"
+"POT-Creation-Date: 2015-08-04 16:06-0800\n"
+"PO-Revision-Date: 2015-08-04 16:06-0800\n"
+"Last-Translator: \n"
+"Language-Team: Nneka <nneka.dev@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ..\\\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: recent-featured-posts-widget.php:40
+msgid "Recent & Featured Posts Widget"
+msgstr ""
+
+#: recent-featured-posts-widget.php:41
+msgid ""
+"Your site's recent posts or your selected posts with thumbnail images and "
+"excerpts"
+msgstr ""
+
+#: recent-featured-posts-widget.php:53 recent-featured-posts-widget.php:230
+msgid "Recent Posts"
+msgstr ""
+
+#: recent-featured-posts-widget.php:65 recent-featured-posts-widget.php:247
+msgid "1px solid black"
+msgstr ""
+
+#: recent-featured-posts-widget.php:75
+msgid "Title:"
+msgstr ""
+
+#: recent-featured-posts-widget.php:81
+msgid "Number of posts to show:"
+msgstr ""
+
+#: recent-featured-posts-widget.php:87
+msgid "Number of words in excerpt: (maximum = 150)"
+msgstr ""
+
+#: recent-featured-posts-widget.php:93
+msgid "Image width in percent:"
+msgstr ""
+
+#: recent-featured-posts-widget.php:99
+msgid ""
+"Width of post title/date/time in percent: (This only works if excerpt is a "
+"dropdown)"
+msgstr ""
+
+#: recent-featured-posts-widget.php:105
+msgid "Text's top position in pixels: (This can be negative)"
+msgstr ""
+
+#: recent-featured-posts-widget.php:111
+msgid "Border of the dropdown excerpt: (e.g., 2px solid #666)"
+msgstr ""
+
+#: recent-featured-posts-widget.php:117
+msgid "Separator between date and time: (This can be a space)"
+msgstr ""
+
+#: recent-featured-posts-widget.php:124
+msgid "Display post date?"
+msgstr ""
+
+#: recent-featured-posts-widget.php:130
+msgid "Display post time?"
+msgstr ""
+
+#: recent-featured-posts-widget.php:136
+msgid ""
+"Show excerpt below image and post title? (excerpt will no longer display as "
+"a dropdown)"
+msgstr ""
+
+#: recent-featured-posts-widget.php:142
+msgid "Include sticky posts?"
+msgstr ""
+
+#: recent-featured-posts-widget.php:148
+msgid "Display rectangular image instead of circular image?"
+msgstr ""
+
+#: recent-featured-posts-widget.php:155
+msgid "Show the posts listed below?"
+msgstr ""
+
+#: recent-featured-posts-widget.php:160
+msgid ""
+"Enter comma-separated post ID numbers in the order they'll appear in the "
+"widget. E.g., 23, 30, 40"
+msgstr ""
+
+#: recent-featured-posts-widget.php:166
+msgid "Show the images listed below?"
+msgstr ""
+
+#: recent-featured-posts-widget.php:171
+msgid ""
+"Enter comma-separated image ID numbers in the order they'll appear in the "
+"widget. E.g., 23,30,40"
+msgstr ""

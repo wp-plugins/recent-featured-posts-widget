@@ -1,0 +1,75 @@
+.rfpw-show-post,
+.rfpw-dropdown-post { 
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+
+.rfpw-show-post li,
+.rfpw-dropdown-post li {
+	padding: 10px 0;	
+	position: relative;
+	width: 100%;
+}
+
+.rfpw-image-link img {
+	border-radius: 50%;
+	float: left;
+	margin-right: 10px;
+	width: 30%;
+}
+
+.rfpw-show-post img {
+	padding-bottom: 5px;
+	position: relative;
+	z-index: 120;
+}
+
+.rfpw-dropdown-excerpt {
+	background: white;
+	border: 1px solid black;
+	color: black;
+	display: none;
+	padding: 10px;
+	position: absolute;
+	top: 100%;
+	left: 0%;
+	width: 100%;
+	z-index: 100;
+}
+
+.rfpw-dropdown-text {
+	position: relative;
+	top: 0;
+	float: left;
+	width: 65%;
+}
+
+.rfpw-dropdown-content:before,
+.rfpw-dropdown-content:after {
+    content: " ";
+    display: table;
+}
+
+.rfpw-dropdown-content:after {
+    clear: both;
+}
+
+.rfpw-dropdown-content {
+    *zoom: 1;
+}
+
+.rfpw-dropdown-content:hover .rfpw-dropdown-excerpt {
+	display: block;
+}
+
+.rfpw-dropdown-excerpt:hover {
+	display: none !important;
+}
+
+.rfpw-show-text {
+	position: relative;
+	top: 0;
+	width: 100%; /*allows text-alignment to work*/
+}
